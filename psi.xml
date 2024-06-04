@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p_pasa>
+    <pas>
+        <pasmina>Border Collie</pasmina>
+        <tezina>12-20 kg</tezina>
+        <visina>46-56 cm</visina>
+        <zivotni_vijek>17 godina</zivotni_vijek>
+        
+    </pas>
+    <pas>
+        <pasmina>Doberman</pasmina>
+        <tezina>32-45 kg</tezina>
+        <visina>61-72 cm</visina>
+        <zivotni_vijek>10-13 godina</zivotni_vijek>
+        
+    </pas>
+    <pas>
+        <pasmina>Jack Russell terijer</pasmina>
+        <tezina>do 7 kg</tezina>
+        <visina>25-38 cm</visina>
+        <zivotni_vijek>do 16 godina</zivotni_vijek>
+        
+    </pas>
+    <pas>
+        <pasmina>Jazavčar</pasmina>
+        <tezina>2-14 kg</tezina>
+        <visina>12-23 cm</visina>
+        <zivotni_vijek>12-16 godina</zivotni_vijek>
+        
+    </pas>
+    <pas>
+        <pasmina>Labrador retriver</pasmina>
+        <tezina>25-35 kg</tezina>
+        <visina>oko 60 cm</visina>
+        <zivotni_vijek>10-14 godina</zivotni_vijek>
+        
+    </pas>
+    <pas>
+        <pasmina>Mađarska vižla</pasmina>
+        <tezina>18-29 kg</tezina>
+        <visina>53-64 cm</visina>
+        <zivotni_vijek>15 godina</zivotni_vijek>
+        
+    </pas>
+    <pas>
+        <pasmina>Mops</pasmina>
+        <tezina>6,3-8,1 kg</tezina>
+        <visina>25-33 cm</visina>
+        <zivotni_vijek>13-15 godina</zivotni_vijek>
+        
+    </pas>
+    <pas>
+        <pasmina>Njemački ovčar</pasmina>
+        <tezina>do 40 kg</tezina>
+        <visina>do 65 cm</visina>
+        <zivotni_vijek>9-13 godina</zivotni_vijek>
+        
+    </pas>
+    <pas>
+        <pasmina>Pekinezer</pasmina>
+        <tezina>5 kg</tezina>
+        <visina>oko 20 cm</visina>
+        <zivotni_vijek>14-18 godina</zivotni_vijek>
+        
+    </pas>
+    <pas>
+        <pasmina>Pinč</pasmina>
+        <tezina>3,5-5 kg</tezina>
+        <visina>25-30 cm</visina>
+        <zivotni_vijek>15 godina</zivotni_vijek>
+        
+    </pas>
+    <pas>
+        <pasmina>Samojed</pasmina>
+        <tezina>do 30 kg</tezina>
+        <visina>48-60 cm</visina>
+        <zivotni_vijek>12 godina</zivotni_vijek>
+        
+    </pas>
+    <pas>
+        <pasmina>Zlatni retriver</pasmina>
+        <tezina>25-35 kg</tezina>
+        <visina>50-61 cm</visina>
+        <zivotni_vijek>10-12 godina</zivotni_vijek>
+        
+    </pas>
+</p_pasa>

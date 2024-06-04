@@ -1,0 +1,17 @@
+.container {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+.data {
+    margin-bottom: 10px;
+}
+.label {
+    font-weight: bold;
+}
+.slika{
+    max-width:200px;
+}
